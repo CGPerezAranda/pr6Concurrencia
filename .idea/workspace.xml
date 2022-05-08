@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db75f54b-e232-4109-966b-0db3b936b685" name="Changes" comment="Commit inicial" />
+    <list default="true" id="db75f54b-e232-4109-966b-0db3b936b685" name="Changes" comment="Commit inicial">
+      <change afterPath="$PROJECT_DIR$/src/canibales/Caldero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/canibales/Canibal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/canibales/Cocinero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +93,7 @@
       <updated>1651843961092</updated>
       <workItem from="1651843963103" duration="6075000" />
       <workItem from="1651943476521" duration="582000" />
+      <workItem from="1651995410564" duration="1121000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1651943543622</created>
